@@ -1,0 +1,11 @@
+Ingredients:
+
+    - Tomatoes
+    - Mesclun (lettuce, canons, spinach sprouts, ...)
+    - Carrots
+    - corn
+    - ...
+
+Description:
+
+    1. Mix it all up.
